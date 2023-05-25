@@ -1,7 +1,7 @@
  body {
      font-family: "Roboto", sans-serif;
      color: #434455;
-     background-color: #F4F4FD;
+     background-color: #FFFFFF;
  }
 
  :root {
@@ -147,7 +147,7 @@
 
  .good-guys {
 
-     background: var(--button-bg-color);
+    background-color: #F4F4FD var(--button-bg-color);
  }
 
 
