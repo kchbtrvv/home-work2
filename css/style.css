@@ -147,7 +147,7 @@
 
  .good-guys {
 
-    background-color: #F4F4FD var(--button-bg-color);
+    background: var(--button-bg-color);
  }
 
 
@@ -182,7 +182,7 @@
 
 
  .team-item {
-     background-color: var(--header-background);
+     background-color: #F4F4FD var(--header-background);
  }
 
 
