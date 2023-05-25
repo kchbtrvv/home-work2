@@ -144,10 +144,9 @@
 
  /*Section4*/
 
-
  .good-guys {
 
-    background: var(--button-bg-color);
+     background: var(--button-bg-color);
  }
 
 
@@ -182,8 +181,9 @@
 
 
  .team-item {
-     background-color: #F4F4FD var(--header-background);
+     background-color: var(--button-bg-color);
  }
+
 
 
  /*footer*/
