@@ -53,12 +53,12 @@
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;
-     color: var(--headre-adress-link);
+     background-color: var(--headre-adress-link);
  }
 
  .headre-adress-link:hover,
  .headre-adress-link:focus {
-     color: var(--header-link-hf);
+     background-color: var(--header-link-hf);
 
  }
 
