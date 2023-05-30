@@ -53,12 +53,13 @@
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.02em;
-   color: var(--headre-adress-link);
+     color: var(--headre-adress-link);
+     font-family: 'Roboto';
  }
 
  .headre-adress-link:hover,
  .headre-adress-link:focus {
-   color: var(--header-link-hf);
+     color: var(--header-link-hf);
 
  }
 
@@ -77,7 +78,7 @@
      color: var(--portfolio-header-color);
  }
 
- /*Section*/
+ /* SECTION 1 */
 
  .hero {
      background: var(--portfolio-header-color);
@@ -111,7 +112,7 @@
      background-color: var(--header-link-hf);
  }
 
- /*Section2*/
+ /* Section 2 */
 
  .skill-section {
      font-weight: 500;
@@ -130,7 +131,7 @@
      color: var(--headre-adress-link);
  }
 
- /*Section3*/
+ /* Section 3 */
 
  .activities-header {
      font-weight: 700;
@@ -142,7 +143,8 @@
      color: var(--portfolio-header-color);
  }
 
- /*Section4*/
+ /* Section 4 */
+
 
  .good-guys {
 
@@ -185,8 +187,7 @@
  }
 
 
-
- /*footer*/
+ /* FOOTER */
 
  .footer {
      background: var(--portfolio-header-color);
@@ -206,7 +207,7 @@
      color: var(--button-bg-color);
  }
 
- /* portfolio*/
+ /* PORTFOLIO */
 
  .portfolio-button {
 
@@ -228,10 +229,8 @@
      background: var(--header-link-hf);
      cursor: pointer;
  }
-
  .portfolio-header {
-
-     font-weight: 500;
+  font-weight: 500;
      font-size: 20px;
      line-height: 1.2;
      letter-spacing: 0.02em;
